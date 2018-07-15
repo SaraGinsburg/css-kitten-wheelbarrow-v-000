@@ -30,7 +30,7 @@
  id of ball (using adjacent sibling selector) */
 
 /*__write_selector_here__*/
-#ball kitty 4{
+#ball {
   position: absolute;
   z-index: 4;
   top: 260px;
